@@ -1,1 +1,1 @@
-this procedure use docking Turing,This is a simple version, and later continue to improve
+脚本用于与图灵机器人进行简单的对接
